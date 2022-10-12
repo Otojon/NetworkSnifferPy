@@ -2,7 +2,7 @@
 
 import argparse
 from scapy.all import *
-# Scapy helps us to code helps making lower level automated tools for us.It's  interactive packet manipulation program
+# Scapy helps us to code  lower level automated tools for us.It's  interactive packet manipulation program
 
 
 class Snifff:
